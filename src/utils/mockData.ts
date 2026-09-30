@@ -119,7 +119,7 @@ export const INITIAL_TRANSACTIONS: Transaction[] = [
   },
   {
     id: 'tx-2',
-    title: 'Luis Castillo',
+    title: 'Luisa Castillo',
     category: 'Transferencia a pares',
     type: 'transfer',
     amount: -310000,
